@@ -20,8 +20,8 @@ Users create game links and share them publicly, with access granted via secret 
 ## Prerequisites
 
 1. Node.js
-2. npm or yarn or pnpm
-3. mysql
+2. Npm or yarn or pnpm
+3. MySQL
 
 ## Getting Started
 
@@ -35,6 +35,14 @@ DB_NAME=nextjs
 
 NEXT_PUBLIC_API_URL=http://localhost:3000/api
 JWT_SECRET=your_secret_key
+```
+
+Note: Replace `your_secret_key` with a random string of characters. This can be achieved by running the following command in the terminal:
+
+```bash
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+# or
+openssl rand -hex 32
 ```
 
 Then, run the development server:
