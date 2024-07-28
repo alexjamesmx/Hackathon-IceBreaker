@@ -8,7 +8,7 @@ import { BASE_URL } from "@/helpers/consts";
 import { Toaster } from "react-hot-toast";
 import { toast } from "react-hot-toast";
 import Card from "@/components/card";
-import Loader from "@/components/Loader";
+import Loader from "@/components/loader";
 import { useFormik } from "formik";
 import * as Yup from "yup";
 

@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import "./CardGame.css";
+import "./cardGame.css";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 import { getOpenAIResponse } from "@/app/api/game/route";

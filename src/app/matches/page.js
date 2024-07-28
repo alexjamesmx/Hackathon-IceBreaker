@@ -9,7 +9,7 @@ import { useRouter } from "next/navigation";
 import { BASE_URL } from "@/helpers/consts";
 import axios from "axios";
 import "../../app/globals.css";
-import Loader from "@/components/Loader";
+import Loader from "@/components/loader";
 
 export default function Matches() {
   const router = useRouter();
