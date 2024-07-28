@@ -15,6 +15,8 @@ Welcome to IceBreaker 🧊🥶, the app designed to make networking, improve soc
 
 Users create game links and share them publicly, with access granted via secret codes, allowing anyone with the code to join and engage. By facilitating playful interactions and learning about each other’s interests, IceBreaker helps build a more collaborative and inclusive atmosphere. Dive into IceBreaker and make your next event a memorable, connection-rich experience/ ⚡
 
+<img src="/readme.png" alt="IceBreaker App" />
+
 </div>
 
 ## Prerequisites
