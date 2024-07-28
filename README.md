@@ -2,8 +2,6 @@
 
 <h1 align="center">Ice Breaker App</h1>
 
-    (NextJs)[https://nextjs.org/]
-
 <div align="center">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -12,9 +10,11 @@
 </div>
 
 <div align="center">
-  Welcome to IceBreaker 🧊🥶, the app designed to make networking, improve social interaction, and events both fun and effortless 👨‍🏭🧕. Our vision is to create a relaxed environment where participants can easily connect through interactive games, similar to Kahoot. IceBreaker breaks down social barriers, encourages open communication, and fosters genuine connections among users.
-  
-  Users create game links and share them publicly, with access granted via secret codes, allowing anyone with the code to join and engage. By facilitating playful interactions and learning about each other’s interests, IceBreaker helps build a more collaborative and inclusive atmosphere. Dive into IceBreaker and make your next event a memorable, connection-rich experience/ ⚡
+
+Welcome to IceBreaker 🧊🥶, the app designed to make networking, improve social interaction, and events both fun and effortless 👨‍🏭🧕. Our vision is to create a relaxed environment where participants can easily connect through interactive games, similar to Kahoot. IceBreaker breaks down social barriers, encourages open communication, and fosters genuine connections among users.
+
+Users create game links and share them publicly, with access granted via secret codes, allowing anyone with the code to join and engage. By facilitating playful interactions and learning about each other’s interests, IceBreaker helps build a more collaborative and inclusive atmosphere. Dive into IceBreaker and make your next event a memorable, connection-rich experience/ ⚡
+
 </div>
 
 ## Prerequisites
