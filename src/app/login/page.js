@@ -150,7 +150,7 @@ export default function Login() {
                 className="text-blue-700 hover:underline"
                 onClick={goToRegister}
               >
-                Don't have an account? Register
+                Dont have an account? Register
               </a>
             </div>
           </form>

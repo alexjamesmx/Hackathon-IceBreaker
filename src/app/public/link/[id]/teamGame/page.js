@@ -72,10 +72,10 @@ const TeamGame = () => {
                   Instructions
                 </h2>
                 <p className="text-white">
-                  Press "Start" to begin the game. A random image will appear,
-                  and each participant will take turns creating a story based on
-                  the image within 5 seconds. The game continues until everyone
-                  has had a turn. Have fun!.
+                  Press Start to begin the game. A random image will appear, and
+                  each participant will take turns creating a story based on the
+                  image within 5 seconds. The game continues until everyone has
+                  had a turn. Have fun!.
                 </p>
                 <button
                   onClick={startGame}
