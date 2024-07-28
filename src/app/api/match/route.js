@@ -48,7 +48,7 @@ export async function POST(req) {
       }
     }
 
-    // Create the match in the database
+    // Create the match in the database.
     const matchId = await Match.createMatch(
       match_name,
       secretKey,
