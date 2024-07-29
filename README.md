@@ -3,6 +3,12 @@
 <h1 align="center">Ice Breaker App</h1>
 
 <div align="center">
+
+App built by (Claudia)[https://github.com/Fl4utia/] & me at a (HeadStarter fellowship Hackathon)[https://headstarter.co/]. ⚡
+
+</div>
+
+<div align="center">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -18,7 +24,7 @@ Users create game links and share them publicly, with access granted via secret 
 <img src="public/readme.png" alt="IceBreaker App menu Screenshot" />
 <img src="public/create.png" alt="IceBreaker Create Public URL Screenshot"/>
 
-</div>
+</div> 
 
 ## Prerequisites
 
