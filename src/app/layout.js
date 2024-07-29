@@ -8,6 +8,9 @@ export const metadata = {
   title: "The Ice Breaker App",
   description:
     "The Ice Breaker App is a collection of fun and engaging icebreakers for teams.",
+  icons: {
+    icon: "R.png",
+  },
 };
 
 export default function RootLayout({ children }) {
