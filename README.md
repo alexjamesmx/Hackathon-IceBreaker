@@ -5,7 +5,7 @@
 <div align="center">
 
 App built by [Claudia](https://github.com/Fl4utia/) & me at a [HeadStarter fellowship Hackathon](https://headstarter.co/). ⚡
-See [the project demonstration at youtube](https://www.youtube.com/watch?v=_u_-baDNG0o) 
+See [the project demonstration at Youtube](https://www.youtube.com/watch?v=_u_-baDNG0o).
 
 </div>
 
