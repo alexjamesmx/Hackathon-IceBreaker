@@ -31,7 +31,6 @@ export default function Login() {
       axios
         .post(`${BASE_URL}/auth/login`, values)
         .then((response) => {
-          console.log(response.data);
           const token = response.data.token;
           localStorage.setItem("token", token);
 
