@@ -4,7 +4,7 @@
 
 <div align="center">
 
-App built by (Claudia)[https://github.com/Fl4utia/] & me at a (HeadStarter fellowship Hackathon)[https://headstarter.co/]. ⚡
+App built by [Claudia](https://github.com/Fl4utia/) & me at a [HeadStarter fellowship Hackathon](https://headstarter.co/). ⚡
 
 </div>
 
