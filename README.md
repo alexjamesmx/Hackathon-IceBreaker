@@ -5,6 +5,7 @@
 <div align="center">
 
 App built by [Claudia](https://github.com/Fl4utia/) & me at a [HeadStarter fellowship Hackathon](https://headstarter.co/). ⚡
+See [the project demonstration at youtube](https://www.youtube.com/watch?v=_u_-baDNG0o) <img alt="Youtube Video" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
 </div>
 
