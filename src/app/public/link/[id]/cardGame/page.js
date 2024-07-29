@@ -3,12 +3,12 @@ import React, { useEffect, useState } from "react";
 import "./cardGame.css";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
-import { getOpenAIResponse } from "@/app/api/game/route";
+// import { getOpenAIResponse } from "@/app/api/game/route";
 
 function CardGame() {
   const [cards, setCards] = useState([]);
   const [isScattered, setIsScattered] = useState(false);
-  const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
+  // const apiKey = process.env.NEXT_PUBLIC_OPENAI_API_KEY;
 
   useEffect(() => {
     setTimeout(() => {

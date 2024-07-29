@@ -5,7 +5,7 @@ import "../app/globals.css";
 import Navbar from "../components/navbar";
 import Card from "@/components/card";
 import Footer from "@/components/footer";
-import fetchResponse from "./api/game/route"; // Adjusted import
+// import fetchResponse from "./api/game/route"; // Adjusted import
 
 const prompt =
   "Give me a creative question like 'How would you hide a giraffe from the government?'";
@@ -39,7 +39,7 @@ export default function Home() {
   };
 
   useEffect(() => {
-    fetchResponse(setQuestion, prompt);
+    // fetchResponse(setQuestion, prompt);
   }, []);
 
   return (
