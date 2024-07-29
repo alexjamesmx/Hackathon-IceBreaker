@@ -77,12 +77,12 @@ export default function Home() {
           />
         ))}
       </div>
-      <div className="flex justify-center items-center mt-8">
+      {/* <div className="flex justify-center items-center mt-8">
         <div className="bg-gray-100 p-4 rounded shadow-md text-center">
           <h2 className="text-2xl font-bold mb-4">Creative Question</h2>
           <p className="text-lg">{question}</p>
         </div>
-      </div>
+      </div> */}
       <Footer />
     </main>
   );
