@@ -50,7 +50,9 @@ export default function Home() {
           <img
             src="./R.png"
             alt="The ice breaker company logo"
-            className="w-80 h-80 md:w-96 md:h-96 lg:w-112 lg:h-112"
+            className="mx-auto mb-4"
+            width={"120px"}
+            height={"120px"}
           />
           <p className="mt-4 text-center text-lg text-white">
             Turning Awkward Silences into Laughs Since 2024

@@ -128,7 +128,9 @@ const PublicLinkGame = () => {
           <img
             src="./R.png"
             alt="The ice breaker company logo"
-            className="w-80 h-80 md:w-96 md:h-96 lg:w-112 lg:h-112"
+            className="mx-auto mb-4"
+            width={"120px"}
+            height={"120px"}
           />
           <p className="mt-4 text-center text-lg text-white">
             Get Ready to Play!
