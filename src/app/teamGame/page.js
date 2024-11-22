@@ -116,7 +116,9 @@ const TeamGame = () => {
             <img
               src="./R.png"
               alt="Good job"
-              className="mx-auto mb-4 w-1/2 md:w-1/4 lg:w-1/6"
+              className="mx-auto mb-4"
+              width={"120px"}
+              height={"120px"}
             />
             <a href="#" className="px-4 py-2 bg-blue-500 text-white rounded">
               Home
