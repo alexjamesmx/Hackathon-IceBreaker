@@ -50,7 +50,7 @@ export default function Home() {
           <img
             src="./R.png"
             alt="The ice breaker company logo"
-            className="mx-auto mb-4"
+            className="mx-auto mb-4 mt-8"
             width={"120px"}
             height={"120px"}
           />
