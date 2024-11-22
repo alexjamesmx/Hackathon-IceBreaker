@@ -55,11 +55,7 @@ export default function Navbar({ is_game }) {
     <nav className="fixed top-0 left-0 right-0 w-full bg-white border-gray-200 dark:bg-gray-900 z-50">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img
-            src="https://svgshare.com/i/18ik.svg"
-            className="h-8"
-            alt="Icebreaker logo"
-          />
+          <img src="./R.png" className="h-8" alt="Icebreaker logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             The Icebreaker Co
           </span>

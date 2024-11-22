@@ -126,7 +126,7 @@ const PublicLinkGame = () => {
       <section className="mg-5">
         <div className="flex flex-col justify-center items-center my-8">
           <img
-            src="https://svgshare.com/i/18hF.svg"
+            src="./R.png"
             alt="The ice breaker company logo"
             className="w-80 h-80 md:w-96 md:h-96 lg:w-112 lg:h-112"
           />

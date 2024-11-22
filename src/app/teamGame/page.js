@@ -114,7 +114,7 @@ const TeamGame = () => {
           <div className="text-center p-20 mt-30 m-4">
             <h2 className="text-2xl font-bold mb-4 text-white">Good job!</h2>
             <img
-              src="https://svgshare.com/i/18hF.svg"
+              src="./R.png"
               alt="Good job"
               className="mx-auto mb-4 w-1/2 md:w-1/4 lg:w-1/6"
             />
